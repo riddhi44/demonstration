@@ -6,3 +6,9 @@ Created on Wed Jul 28 14:35:14 2021
 """
 
 print ("i am thirsty")
+
+hungry = input ("are you hungry?")
+if hungry == "yes":
+    print("eat samosa")
+else:
+    print("do your homework")
