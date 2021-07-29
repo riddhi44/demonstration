@@ -5,7 +5,7 @@ Created on Wed Jul 28 14:35:14 2021
 @author: Riddhi
 """
 
-print ("i am hungry")
+print ("i am angry")
 
 hungry = input ("are you hungry?")
 if hungry == "yes":
